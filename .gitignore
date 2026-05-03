@@ -1,0 +1,32 @@
+## [ Visual Studio ]
+.vs/
+[Vv]17/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## [ Build OutPut ]
+[Bb]in/
+[Oo]bj/
+
+## [ Rider / JetBrains ]
+.idea/
+*.sln.iml
+
+## [ VS Code ]
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+## [ Cấu hình cá nhân ]
+appsettings.Development.json
+
+## [ Log & Tạm thời ]
+*.log
+*.tmp
+[Bb]in/
+[Oo]bj/
+*.dll
